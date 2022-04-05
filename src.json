@@ -48,5 +48,11 @@
             "date_iso_utc": "2021-03-08:00:00:00Z"
         }
     },
-    "GBN_Paths_From_Nulls": {}
+    "GBN_Paths_From_Nulls": {
+        "1.0": {
+            "title": "shpr is out!",
+            "description": "The alter ego entity of the built-in tool \"Nulls From Paths.jsx\" grants your fingertips with the power to generate a path from existing nulls. By holding \"Shift\" you can generate a new path from any selected layer.",
+            "date_iso_utc": "2021-03-08:00:00:00Z"
+        }
+    }
 }
