@@ -1,0 +1,52 @@
+{
+    "GBN_Wiggle": {
+        "1.01": {
+            "ignore": true,
+            "title": "Wiggle is out!",
+            "description": "Nothing Yet",
+            "date_iso_utc": "2022-04-22:00:00:00Z"
+        },
+        "1.0": {
+            "title": "Wiggle is out!",
+            "description": "\u2022 Live preview before you apply using the cutest smiley in the world of motion\r\n\u2022 Easily loop and set a loop duration\r\n\u2022 Wiggle X, Y, or Z dimensions separately\r\n\u2022 Supports \"Separate Dimensions\" for you Value Graph psychos\r\n\u2022 Funky panel design that dims when you leave the panel, so you can focus on your work\r\n\u2022 Extension panel with buttery-smooth UI",
+            "date_iso_utc": "2022-03-22:00:00:00Z"
+        }
+    },
+    "GBN_Colors": {
+        "1.221": {
+            "title": "Bug Fixes",
+            "description": "Improved licensing system and bug fixes",
+            "date_iso_utc": "2022-02-26:00:00:00Z"
+        },
+        "1.0": {
+            "title": "Colors is out!",
+            "description": "",
+            "date_iso_utc": "2022-03-22:00:00:00Z"
+        }
+    },
+    "GBN_Noodle": {
+        "2.211": {
+            "title": "Bug Fixes",
+            "description": "Improved licensing system and bug fixes",
+            "date_iso_utc": "2022-02-26:00:00:00Z"
+        },
+        "2.0": {
+            "title": "Noodle 2 is out!",
+            "description": "Noodle helps you create secondary motions without needing to keyframe them manually.  you can Noodle a child relative to the motion of its parent, Noodle a path for soft-body-like physics with a per point control, and even Noodle puppet-pins to make images bend squash and stretch as they move around.",
+            "date_iso_utc": "2021-03-08:00:00:00Z"
+        }
+    },
+    "GBN_shpr": {
+        "1.211": {
+            "title": "Bug Fixes",
+            "description": "Improved licensing system and bug fixes",
+            "date_iso_utc": "2022-02-26:00:00:00Z"
+        },
+        "1.0": {
+            "title": "shpr is out!",
+            "description": "Noodle helps you create secondary motions without needing to keyframe them manually.  you can Noodle a child relative to the motion of its parent, Noodle a path for soft-body-like physics with a per point control, and even Noodle puppet-pins to make images bend squash and stretch as they move around.",
+            "date_iso_utc": "2021-03-08:00:00:00Z"
+        }
+    },
+    "GBN_Paths_From_Nulls": {}
+}
