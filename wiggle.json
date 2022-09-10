@@ -1,0 +1,13 @@
+{
+        "1.01": {
+            "ignore": true,
+            "title": "Wiggle is out!",
+            "description": "Nothing Yet",
+            "date_iso_utc": "2022-04-22:00:00:00Z"
+        },
+        "1.0": {
+            "title": "Wiggle is out!",
+            "description": "\u2022 Live preview before you apply using the cutest smiley in the world of motion\r\n\u2022 Easily loop and set a loop duration\r\n\u2022 Wiggle X, Y, or Z dimensions separately\r\n\u2022 Supports \"Separate Dimensions\" for you Value Graph psychos\r\n\u2022 Funky panel design that dims when you leave the panel, so you can focus on your work\r\n\u2022 Extension panel with buttery-smooth UI",
+            "date_iso_utc": "2022-03-22:00:00:00Z"
+        }
+}
