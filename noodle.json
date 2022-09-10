@@ -1,0 +1,12 @@
+{
+	"2.211": {
+		"title": "Bug Fixes",
+		"description": "Improved licensing system and bug fixes",
+		"date_iso_utc": "2022-02-26:00:00:00Z"
+	},
+	"2.0": {
+		"title": "Noodle 2 is out!",
+		"description": "Noodle helps you create secondary motions without needing to keyframe them manually.  you can Noodle a child relative to the motion of its parent, Noodle a path for soft-body-like physics with a per point control, and even Noodle puppet-pins to make images bend squash and stretch as they move around.",
+		"date_iso_utc": "2021-03-08:00:00:00Z"
+	}
+}
