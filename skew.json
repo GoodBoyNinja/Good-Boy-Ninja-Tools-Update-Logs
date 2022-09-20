@@ -3,7 +3,7 @@
             "ignore": true,
             "forceShowInDev": true,
             "title": "Skew-You, Bugs!",
-            "description": "• Loading layers into Skew is now substantially more reliable.\n• Label colors are now fully supported for non-english versions of After-Effects.\n• Added the option to snooze notifications regarding new versions of Skew\n•Other smol bug fixes and improvements",
+            "description": "• Loading layers into Skew is now substantially more reliable.<br>• Label colors are now fully supported for non-english versions of After-Effects.<br>• Added the option to snooze notifications regarding new versions of Skew<br>•Other smol bug fixes and improvements<br>",
             "date_iso_utc": "2023-01-1:00:00:00Z"
         },
         "1.0": {
