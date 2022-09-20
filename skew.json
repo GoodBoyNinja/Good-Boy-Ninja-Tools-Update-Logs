@@ -1,6 +1,7 @@
 {
         "1.01": {
             "ignore": true,
+            "forceShowInDev": true,
             "title": "Wiggle is out!",
             "description": "Nothing Yet",
             "date_iso_utc": "2023-01-1:00:00:00Z"
