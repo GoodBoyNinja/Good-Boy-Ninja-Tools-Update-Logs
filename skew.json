@@ -2,8 +2,8 @@
         "1.01": {
             "ignore": true,
             "forceShowInDev": true,
-            "title": "Wiggle is out!",
-            "description": "Nothing Yet",
+            "title": "Skew-You, Bugs!",
+            "description": "Loading layers into Skew is not substantially more reliable. \n A bug has also been fixed where layer labels would not load properly if you were using After-Effects with a non-english language.",
             "date_iso_utc": "2023-01-1:00:00:00Z"
         },
         "1.0": {
