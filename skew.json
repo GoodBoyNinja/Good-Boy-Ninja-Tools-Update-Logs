@@ -1,6 +1,7 @@
 {
 	"1.02": {
 		"ignore": "true",
+        "forceShowInDev": "true",
 		"title": "Skew-You, Bugs!",
 		"description": "Previous update (1.01) introduced a regression in loading times, <br> which should be fixed",
 		"date_iso_utc": "2022-09-25:00:00:00Z"
