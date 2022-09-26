@@ -1,10 +1,8 @@
 {
 	"1.02": {
-		"ignore": "true",
-        "forceShowInDev": "true",
 		"title": "MUST, SQUASH, BUGS 😡👉🐛",
-		"description": "Previous update (1.01) introduced a regression in loading times, <br> which should be fixed with this update.<br>Also, label colors should now load properly for those who use Beta versions of After-Effects on MacOS.<br><br>This update is small, but may grately improve your experience with Skew.<br><br>Thank you for your patience and support!",
-		"date_iso_utc": "2022-09-25:00:00:00Z"
+		"description": "The previous update (1.01) introduced a regression in loading times, <br> which should be fixed with this update.<br>Also, label colors should now load properly for those who use Beta versions of After-Effects on MacOS.<br><br>This update is small, but may greatly improve your experience with Skew.<br><br>Thank you for your patience and support!",
+		"date_iso_utc": "2022-09-26:00:00:00Z"
 	},
 	"1.01": {
 		"title": "Skew-You, Bugs!",
